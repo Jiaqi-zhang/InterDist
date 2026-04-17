@@ -1,0 +1,1 @@
+You need to download the [SMPL-X models](https://smpl-x.is.tue.mpg.de/) and then place them under `./data/body_models/smplx/`.
