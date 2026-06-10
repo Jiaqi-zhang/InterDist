@@ -1,0 +1,4 @@
+*
+!docker/
+!docker/requirements.txt
+!docker/Dockerfile
